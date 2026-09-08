@@ -39,5 +39,3 @@
 
 `Linux` `SQL` `HTTP` `REST API` `Logs` `Troubleshooting`
 `Monitoring` `Prometheus` `Networking` `Incident Management`
-
-> Проект учебный. Все данные, логи и инциденты синтетические.
