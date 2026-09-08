@@ -1,6 +1,0 @@
-2026-09-08T10:00:01Z INFO request_id=req-101 path=/api/cashback status=200 latency_ms=82
-2026-09-08T10:00:03Z WARN request_id=req-102 path=/api/cashback status=429 latency_ms=54 message="rate limit"
-2026-09-08T10:00:05Z ERROR request_id=req-103 path=/api/payment status=500 latency_ms=814 message="database timeout"
-2026-09-08T10:00:06Z INFO request_id=req-104 path=/api/profile status=200 latency_ms=91
-2026-09-08T10:00:09Z ERROR request_id=req-105 path=/api/payment status=504 latency_ms=10002 message="upstream timeout"
-2026-09-08T10:00:12Z WARN request_id=req-106 path=/api/profile status=403 latency_ms=40 message="forbidden"
